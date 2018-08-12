@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
@@ -7,7 +12,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/src-d/code-completion/tokenizer/tokenize"
+	"github.com/sniperkit/snk.fork.code-completion/tokenizer/tokenize"
 )
 
 func main() {
